@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiLibrary", "ArchiLibrary\ArchiLibrary.csproj", "{2FA8B558-5647-4D8F-940E-9841F9FEAAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiAPI", "ArchiAPI\ArchiAPI.csproj", "{0A7A5497-B35E-45EB-A756-559C82C898E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archi.Test", "Archi.Test\Archi.Test.csproj", "{5772C53F-634F-46D0-B19D-3BBC789F1502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA8B558-5647-4D8F-940E-9841F9FEAAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA8B558-5647-4D8F-940E-9841F9FEAAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA8B558-5647-4D8F-940E-9841F9FEAAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA8B558-5647-4D8F-940E-9841F9FEAAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7A5497-B35E-45EB-A756-559C82C898E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7A5497-B35E-45EB-A756-559C82C898E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7A5497-B35E-45EB-A756-559C82C898E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7A5497-B35E-45EB-A756-559C82C898E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5772C53F-634F-46D0-B19D-3BBC789F1502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5772C53F-634F-46D0-B19D-3BBC789F1502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5772C53F-634F-46D0-B19D-3BBC789F1502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5772C53F-634F-46D0-B19D-3BBC789F1502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0833303C-ABED-4416-BB28-9A54DED99155}
+	EndGlobalSection
+EndGlobal
